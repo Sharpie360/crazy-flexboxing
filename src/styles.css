@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+}
+
+.panels:nth-child(2) {
+  
+}
+.panel {
+  width: 300px;
+  background-color: #07e673;
+}
+.panel2 {
+  width: 200px;
+  background-color: #fad231;
+}
+.panel3 {
+  width: 350px;
+  background-color: #31faf3;
+}
+
+.border {
+  border: 1px solid red;
+}
